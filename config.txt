@@ -1,0 +1,22 @@
+gamePath=FALSE
+runUpdate=FALSE
+runIT=5
+
+/*
+
+ Runs first instance on all resources while running
+ other instances minimised on 1 core to save resources
+
+	gamePath
+		obsolete, don't set, just make sure .exe and config.txt files 
+		are in Custom Archlord folder
+
+	runUpdate
+		Do you want to run update before launching? TRUE or FALSE
+
+	runIT=6
+		How many clients do you want to be launched? Max 16
+
+	mbnq.pl
+
+*/
